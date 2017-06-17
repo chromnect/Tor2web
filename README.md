@@ -1,3 +1,7 @@
+the reason i have put this resource in the ti-cromenect repois because i want to make sure that tor users are safe ..that is when they use our extention (it has to be a app right now so that will mean that they can use it because tor is firefox based and google chrome apps can  run on firefox ...and all tor is is a encripted version of firefox and i really dont want any tor useing my extention and then connecting to my unencripted (well not as encripted ) server just so that if pepole come asking me if i know this guy who is buying things off the black market ....its just a good idea to have. all i am going to do is well... for now is block anyone who is attempting to connect to my server...although they can turn off the encription prossess but any tor user would know that is bad becaus if i set a cookie on their browser when they are useing tor encripted and come back without it being encripted then i can see who they are and their would be no point of useing the tor network...
+
+
+
 Tor2web [![Build Status](https://travis-ci.org/globaleaks/Tor2web.svg?branch=master)](https://travis-ci.org/globaleaks/Tor2web) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9278ba439d154cf783d9a84743b174f4)](https://www.codacy.com/app/GlobaLeaks/Tor2web?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=globaleaks/Tor2web&amp;utm_campaign=Badge_Grade)
 ==========
 
